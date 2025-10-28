@@ -19,11 +19,14 @@
     flutter create praktikum_api_crud
     2.	Menambahkan Depedency
 <img width="174" height="80" alt="image" src="https://github.com/user-attachments/assets/67d0a447-cf9d-4258-a434-c94375c0d192" />
+
     3.	Membuat user model
 <img width="624" height="508" alt="image" src="https://github.com/user-attachments/assets/39ed5787-7795-4945-8179-ee2a0928a1f7" />
+
     4.	Membuat api service
 <img width="624" height="370" alt="image" src="https://github.com/user-attachments/assets/7b1c37cf-55c8-4416-8d0a-c7b4aab82995" />
 <img width="624" height="354" alt="image" src="https://github.com/user-attachments/assets/27ce3339-d17a-4e43-a2eb-0ea6eed41d0e" />
+
     5.	Menampilkan hasil
 <img width="389" height="864" alt="image" src="https://github.com/user-attachments/assets/8dceeab3-a3d6-45be-aeb6-1731a798904b" />
 <img width="389" height="864" alt="image" src="https://github.com/user-attachments/assets/1b7300d5-ea41-44cf-9de4-9f7554f7d150" />
